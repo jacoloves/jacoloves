@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacoloves)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacoloves&theme=dark&show_icons=true)
 
 <!--
 **jacoloves/jacoloves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
